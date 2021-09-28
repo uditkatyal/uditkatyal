@@ -1,18 +1,25 @@
-### Hi there 👋
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There+👋,+I'm+Udit;+An+Open+Source+Enthusiast+☀;Frontend+Web+Developer+💻;Loves+To+Build+Projects+🛠;A+Problem+Solver+🕵;">
+</p>
+<!-- ### Hi there 👋 -->
 
 <!--
 **uditkatyal/uditkatyal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 -->
- - 🔭 I’m currently working on Web Development
+- 🔭 I’m currently working on Web Development
 - 🌱 I’m currently learning DSA and Web Development
 - 👯 I’m looking to collaborate on Open Source Projects
- - 📫 How to reach me: uditkatyal@gmail.com
+- 📫 How to reach me: uditkatyal@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am coder and that's a fun fact! 
 
-<h3 align="center">A passionate frontend developer from India</h3>
+
+
+
+
+<!-- <h3 align="center">A passionate frontend developer from India</h3> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uditkatyal&label=Profile%20views&color=0e75b6&style=flat" alt="uditkatyal" /> </p>
 
