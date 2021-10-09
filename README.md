@@ -46,3 +46,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/uditkatyal"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="uditkatyal" /></a></p><br><br><br>
+
+<h3 align="left">Spotify Playing 🎵: </h3>
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31q5yrgleouwrotiayu5q45avoau&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
