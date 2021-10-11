@@ -37,7 +37,10 @@ Here are some ideas to get you started:
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=uditkatyal&show_icons=true&locale=en&layout=compact" alt="uditkatyal" /></p>
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=uditkatyal&show_icons=true&locale=en&layout=compact" alt="uditkatyal" /></p> -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uditkatyal&layout=compact)](https://github.com/uditkatyal/github-readme-stats)
+
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=uditkatyal&show_icons=true&locale=en" alt="uditkatyal" /></p>
 
