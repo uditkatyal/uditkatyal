@@ -47,6 +47,10 @@ Here are some ideas to get you started:
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=uditkatyal&" alt="uditkatyal" /></p>
 
+[![Udit's github activity graph](https://activity-graph.herokuapp.com/graph?username=uditkatyal&bg_color=000000&color=1fdbd8&line=ff5c5c&point=1adbce&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+![-------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/uditkatyal"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="uditkatyal" /></a></p><br><br><br>
 
