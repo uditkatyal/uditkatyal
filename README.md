@@ -51,7 +51,21 @@ Here are some ideas to get you started:
 
 ![-------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-![Graph](https://raw.githubusercontent.com/uditkatyal/uditkatyal/metrics/calendar.svg)
+<p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=mittalaakash&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="mittalaakash" /></p>
+<br><br>
+<p align='center'>
+
+![Graph](https://raw.githubusercontent.com/mittalaakash/mittalaakash/metrics/calendar.svg)
+![Most used languages](https://raw.githubusercontent.com/mittalaakash/mittalaakash/metrics/languages.svg)
+![Achievements](https://raw.githubusercontent.com/mittalaakash/mittalaakash/metrics/achievements.svg)
+![trophy](https://github-profile-trophy.vercel.app/?username=char-al&no-bg=true&no-frame=true&column=4&theme=algolia)
+
+</p>
+<table width="2000">
+<tr>
+<td width="2000"><img src="https://github-trophies.vercel.app/?username=Coordinate-Cat&rank=SECRET,SSS,SS,S,AAA,AA&row=2&column=9&theme=gruvbox"></td>
+</tr>
+</table>
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/uditkatyal"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="uditkatyal" /></a></p><br><br><br>
