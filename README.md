@@ -51,6 +51,8 @@ Here are some ideas to get you started:
 
 ![-------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
+![Graph](https://raw.githubusercontent.com/uditkatyal/uditkatyal/metrics/calendar.svg)
+
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/uditkatyal"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="uditkatyal" /></a></p><br><br><br>
 
